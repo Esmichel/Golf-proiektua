@@ -1,0 +1,74 @@
+
+		body{
+                width: 960px;
+                margin: 0 auto;
+				background-image: url("irudia/fondo.jpg"); 
+				background-repeat: no-repeat;
+				background-position: center center;	  
+				background-attachment: fixed;
+				background-size: cover;
+				margin: 0 auto;
+				font-family:courier,arial,helvética; 
+					
+			}
+			
+		#ezker{
+				  padding-left:50px;
+				  width:160;
+			  }
+           
+			
+            h1{
+                text-align: center;
+				color: black;
+				text-shadow: 2px 1px lightgrey;
+				font-size: 56px;
+				
+			  }
+			b{
+				font-size: 26px;
+			}
+			  
+			footer{
+                text-align: center;
+				color: white;
+				text-shadow: 2px 2px black;
+			  }
+			 
+			 
+			 tr{
+				 height: 40px;
+			 }
+			 
+			th  {
+				width: 250px;
+				text-align: center;
+				border: 6em;
+				margin-bottom: 4em;
+				border-radius: 5px;
+				border-color: black;
+				text-shadow: 2px 2px lightgrey;
+  
+  height: 20px;
+  border: 1px solid black;
+  -webkit-animation: mymove 6s infinite;   
+  animation: mymove 6s infinite;
+}
+	
+
+table {
+  border-collapse: separate;
+  border-spacing: 10px 20px;
+}
+
+table tr:hover {
+  background-color: powderblue;
+  
+  text-shadow: 2px 2px black;
+  
+}
+
+
+           
+        				
+       
